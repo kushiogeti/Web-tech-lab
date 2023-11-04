@@ -1,0 +1,28 @@
+* {box-sizing: border-box;}
+h1{
+    color:rgb(230, 80, 80);
+    text-align: center;}
+body {
+    padding: 10px;
+    background-color: rgb(196, 255, 244);
+    border: 1px solid;}
+.header h1 {font-size: 50px;}
+.name{
+    color: rgb(104, 68, 68);
+font-size: larger;
+font-style: italic;}  
+.center{text-align: center;}
+.three{text-align: right;}
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;}
+.topnav {overflow: hidden;}
+.topnav a {
+    float: center;
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 1px 16px;
+    text-decoration: none;}
+  
